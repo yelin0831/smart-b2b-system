@@ -58,6 +58,13 @@ streamlit run dashboard_app.py
 - Streamlit
 - Pandas
 - Plotly
+---
+
+## 📎 Dashboard Screenshot
+
+You can view the dashboard result here:
+
+👉 [Smart B2B Dashboard (PDF)](./Smart%20B2B%20Dashboard.pdf)
 
 ## ✅ requirements.txt
 
