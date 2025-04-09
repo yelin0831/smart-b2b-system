@@ -1,0 +1,23 @@
+[
+    {
+      "OrderID": "O1001",
+      "CustomerID": "C001",
+      "ProductID": "P002",
+      "Quantity": 20,
+      "OrderDate": "2025-04-08"
+    },
+    {
+      "OrderID": "O1002",
+      "CustomerID": "C002",
+      "ProductID": "P001",
+      "Quantity": 15,
+      "OrderDate": "2025-04-08"
+    },
+    {
+      "OrderID": "O1003",
+      "CustomerID": "C002",
+      "ProductID": "P001",
+      "Quantity": 200,
+      "OrderDate": "2025-04-08"
+    }
+  ]
