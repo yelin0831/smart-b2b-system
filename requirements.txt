@@ -1,0 +1,8 @@
+---
+
+## ✅ 5단계: requirements.txt 예시
+
+```txt
+streamlit==1.32.0
+pandas==1.5.3
+plotly==5.18.0
